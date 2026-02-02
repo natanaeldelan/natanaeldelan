@@ -37,9 +37,7 @@ Here are some of the most notable repositories from my account (selected by rece
    - Description: No description provided
    - Stars: 0 • Language: TypeScript • Forks: 0 • Watchers: 0 • Open issues: 0 • Size: 126 KB
 
-4. [undelivered-projects](https://github.com/natanaeldelan/undelivered-projects)
-   - Description: "proyectos que hice para mi y nunca enseñe" (projects I made for myself and never showed) 🇪🇸
-   - Stars: 0 • Language: (not specified) • Forks: 0 • Watchers: 0 • Open issues: 0 • Size: 2 KB
+  
 
 (Also see the profile repo: [natanaeldelan/natanaeldelan](https://github.com/natanaeldelan/natanaeldelan) — used for personal README & repo housekeeping.)
 
